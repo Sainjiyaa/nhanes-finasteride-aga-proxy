@@ -1,0 +1,9 @@
+data/raw/
+outputs/derived/
+outputs/reproduction_console.txt
+*.xpt
+*.XPT
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
