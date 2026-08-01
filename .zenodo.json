@@ -1,0 +1,19 @@
+{
+  "title": "NHANES Finasteride AGA Proxy: Reproducibility Code and Classification Dictionary",
+  "description": "Reproducibility code and classification dictionary for a cycle-specific finasteride-based proxy for probable finasteride-treated androgenetic alopecia in NHANES 1999–2018. Analysis code is licensed under MIT; documentation and the classification dictionary are licensed under CC BY 4.0.",
+  "creators": [
+    {"name": "Han, Shiwei"},
+    {"name": "Du, Simo"}
+  ],
+  "keywords": [
+    "NHANES",
+    "finasteride",
+    "androgenetic alopecia",
+    "epidemiology",
+    "reproducibility"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0"
+}
