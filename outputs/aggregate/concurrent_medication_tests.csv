@@ -1,0 +1,7 @@
+proxy,outcome,retained_yes,retained_no,excluded_yes,excluded_no
+class_strict,bph_specific,0,39,114,200
+class_strict,ambiguous,3,36,71,243
+class_strict,any_broad,3,36,182,132
+class_l989_age,bph_specific,0,40,114,199
+class_l989_age,ambiguous,3,37,71,242
+class_l989_age,any_broad,3,37,182,131
