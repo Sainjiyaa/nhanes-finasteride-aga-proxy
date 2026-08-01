@@ -9,6 +9,26 @@ authors:
     given-names: Simo
 version: 1.0.0
 date-released: 2026-08-01
+doi: 10.5281/zenodo.21748701
+license: MIT
+repository-code: "https://github.com/Sainjiyaa/nhanes-finasteride-aga-proxy"
+keywords:
+  - NHANES
+  - finasteride
+  - androgenetic alopecia
+  - epidemiology
+  - reproducibility
+cff-version: 1.2.0
+message: "If you use this software or classification dictionary, please cite the archived release and associated manuscript."
+title: "NHANES Finasteride AGA Proxy: Reproducibility Code and Classification Dictionary"
+type: software
+authors:
+  - family-names: Han
+    given-names: Shiwei
+  - family-names: Du
+    given-names: Simo
+version: 1.0.0
+date-released: 2026-08-01
 license: MIT
 repository-code: "https://github.com/Sainjiyaa/nhanes-finasteride-aga-proxy"
 keywords:
