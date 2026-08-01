@@ -1,0 +1,6 @@
+This repository uses two licenses:
+
+- Analysis code in `scripts/` and `run_all.sh`: MIT License. See `LICENSE-CODE`.
+- Documentation and `classification_dictionary.csv`: Creative Commons Attribution 4.0 International. See `LICENSE-DOCUMENTATION`.
+
+Aggregate output tables in `outputs/aggregate/` may be reused under CC BY 4.0 with attribution to the authors and citation of the archived release.
